@@ -1,0 +1,10 @@
+C:\Users\Sam\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Sam\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\users\Sam\Documents\visual studio 2010\Projects\MP3Header Output\MP3Header Output\bin\Debug\policy.2.0.taglib-sharp.dll
+D:\users\Sam\Documents\visual studio 2010\Projects\MP3Header Output\MP3Header Output\bin\Debug\taglib-sharp.dll
+D:\users\Sam\Documents\visual studio 2010\Projects\MP3Header Output\MP3Header Output\bin\Debug\policy.2.0.taglib-sharp.config
+D:\users\Sam\Documents\visual studio 2010\Projects\MP3Header Output\MP3Header Output\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\users\Sam\Documents\visual studio 2010\Projects\MP3Header Output\MP3Header Output\bin\Debug\mp3DisplayTags.exe
+D:\users\Sam\Documents\visual studio 2010\Projects\MP3Header Output\MP3Header Output\bin\Debug\mp3DisplayTags.pdb
+D:\users\Sam\Documents\visual studio 2010\Projects\MP3Header Output\MP3Header Output\obj\x86\Debug\mp3DisplayTags.exe
+D:\users\Sam\Documents\visual studio 2010\Projects\MP3Header Output\MP3Header Output\obj\x86\Debug\mp3DisplayTags.pdb
