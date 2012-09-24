@@ -16,8 +16,8 @@ Example Outcome
 ---------------
 
 This program takes in an argument that is the full path to an MP3 file and print
-s out the ID tag of the MP3 file.
-MP3 file set to: d:\Big_Scary-Autumn.mp3
+s out the ID tag of the MP3 file.<br />
+MP3 file set to: d:\Big_Scary-Autumn.mp3<br />
 --------------TAGS-----------------
 Tags on disk:   Id3v2
 Tags in object: Id3v1, Id3v2
